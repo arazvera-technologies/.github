@@ -12,11 +12,16 @@ ARAZVERA TECHNOLOGIES is an independent engineering initiative focused on design
 - **Security by design:** Least-privilege permissions, auditability, and defensive controls.
 - **Intelligent infrastructure:** Data pipelines, local/cloud integration, and performance-conscious engineering.
 
-## Public engineering
+## Public engineering references
 
-This organization will host selected reference architectures, technical documentation, and independently developed demonstrations. Public repositories will be reviewed for functionality, licenses, confidentiality, and credentials before release.
+Explore our published technical documentation:
 
-**Private AERON source code, customer information, and secrets will not be published here.** Experimental demos will be clearly distinguished from production deployments.
+- **[Agentic AI Architecture Notes](https://github.com/arazvera-technologies/agentic-ai-architecture-notes):** Reference architecture for specialist-agent coordination, permission-aware tool access, failure handling, and evaluation.
+- **[Secure Automation Patterns](https://github.com/arazvera-technologies/secure-automation-patterns):** Defensive engineering guidance for action approvals, least-privilege access, auditability, and incident response.
+
+These are public engineering references, **not claims of deployed commercial products**. Future code or demonstrations will be published only after technical, licensing, confidentiality, and credential reviews.
+
+Private project source code, customer information, and credentials are not published here.
 
 ## Contact
 
