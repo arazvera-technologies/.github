@@ -23,6 +23,13 @@ These are public engineering references, **not claims of deployed commercial pro
 
 Private project source code, customer information, and credentials are not published here.
 
+
+## Interactive engineering demonstration
+
+**[ARAZVERA Workflow Studio](https://arazvera-technologies.github.io/arazvera-workflow-studio/)** ? a public browser-based demo of specialist request routing, policy decision gates, human review, and audit history. It runs entirely as a **local simulation**; it is not connected to production infrastructure or autonomous AI agents.
+
+- [View its source code and tests](https://github.com/arazvera-technologies/arazvera-workflow-studio)
+
 ## Contact
 
 - **Email:** [contact.arazvera@gmail.com](mailto:contact.arazvera@gmail.com)
