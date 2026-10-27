@@ -1,26 +1,29 @@
 # ARAZVERA TECHNOLOGIES
 
-**AI Systems Architecture | Agentic Automation | Intelligent Infrastructure**
+**AI Systems Architecture | Agentic Automation | Intelligent Software Infrastructure**
 
-ARAZVERA TECHNOLOGIES is an independently led technical initiative focused on designing, researching, and prototyping reliable AI-enabled software systems.
+ARAZVERA TECHNOLOGIES is an independent engineering initiative focused on designing and prototyping practical AI-enabled software. We prioritize reliability, modularity, security-conscious design, and responsible automation.
 
-## Engineering areas
+## Engineering focus
 
-- **Agentic AI:** modular multi-agent orchestration, tool integration, task delegation and human approval controls.
-- **LLM engineering:** retrieval-augmented generation (RAG), evaluations and API integration.
-- **Software architecture:** maintainable modules, testing, observability and deployment patterns.
-- **Security by design:** explicit permissions, auditability, least privilege and safe operational boundaries.
+- **Agentic AI:** Multi-agent orchestration, specialist assistants, tool integrations, human approval controls.
+- **LLM engineering:** Retrieval-augmented generation (RAG), evaluation, conversational architecture, and API integrations.
+- **Software architecture:** Modular services, automation, testability, monitoring, and deployment design.
+- **Security by design:** Least-privilege permissions, auditability, and defensive controls.
+- **Intelligent infrastructure:** Data pipelines, local/cloud integration, and performance-conscious engineering.
 
-## Public work
+## Public engineering
 
-This GitHub organization hosts selected **public technical documentation, reference architectures and self-contained examples**. Experimental examples are identified as such. Production readiness is never implied without supporting tests and release information.
+This organization will host selected reference architectures, technical documentation, and independently developed demonstrations. Public repositories will be reviewed for functionality, licenses, confidentiality, and credentials before release.
 
-No proprietary AERON source code, customer information, credentials or private operational configuration is published here.
+**Private AERON source code, customer information, and secrets will not be published here.** Experimental demos will be clearly distinguished from production deployments.
 
 ## Contact
 
-- [Founder and AI systems architect (LinkedIn)](https://www.linkedin.com/in/yashar-rastgookhiavi-979355447/)
-- [Technical GitHub account](https://github.com/ARAZVERA)
-- Email: contact.arazvera@gmail.com
+- **Email:** [contact.arazvera@gmail.com](mailto:contact.arazvera@gmail.com)
+- **Founder / engineering:** [ARAZVERA](https://github.com/ARAZVERA)
+- **LinkedIn:** [Founder profile](https://www.linkedin.com/in/yashar-rastgookhiavi-979355447/)
 
-*Independent technical brand initiative in development; this profile does not claim legal incorporation or commercial certifications.*
+---
+
+*Independent technology brand in development; no legal-incorporation or commercial-performance claims.*
